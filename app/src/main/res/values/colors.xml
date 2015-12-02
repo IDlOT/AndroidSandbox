@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="my_awesome_color">#69d556</color>
+    <color name="my_awesome_darker_color">#0dd500</color>
+    <color name="accent">#1025d5</color>
+    <color name="red">#54d5b4</color>
+    <color name="actionbar_text">#f9f108</color>
+
+
+</resources>
